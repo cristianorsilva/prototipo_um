@@ -5,12 +5,22 @@ Primeiro protótipo em flutter, para uso de treinamentos de automação
 ## Getting Started
 
 Users para logar:
+
 CPF: 929.035.400-39
+
 CPF: 050.209.090-17
+
 CPF: 971.147.000-40
 
 Senha para logar com os users: 172839
 
+## Exemplos de comandos:
+
+flutter drive \ --driver=test_driver/integration_test.dart \ --target=integration_test/tests/login_test.dart \
+
+flutter drive \ --driver=test_driver/integration_test.dart \ --target=integration_test/tests/pix_test.dart \
+
+##
 
 This project is a starting point for a Flutter application.
 
