@@ -1,8 +1,16 @@
 # prototipo_um
 
-A new Flutter project.
+Primeiro protótipo em flutter, para uso de treinamentos de automação
 
 ## Getting Started
+
+Users para logar:
+CPF: 929.035.400-39
+CPF: 050.209.090-17
+CPF: 971.147.000-40
+
+Senha para logar com os users: 172839
+
 
 This project is a starting point for a Flutter application.
 
